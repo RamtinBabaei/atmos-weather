@@ -2,6 +2,15 @@
 
 A responsive solution to the [Frontend Mentor Weather App challenge](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49), built with React 19, TypeScript, Tailwind CSS 4, and Open-Meteo.
 
+## 🌤️ Live Demo
+
+[Open Atmos Weather →](https://atmos-weather.ramtinbabaei-portfolio.workers.dev/)
+
+## Preview
+
+[![Atmos Weather preview](docs/preview.png)](https://atmos-weather.ramtinbabaei-portfolio.workers.dev/)
+
+
 ## Features
 
 - Global city search with debounced requests, keyboard navigation, and country/region disambiguation.
