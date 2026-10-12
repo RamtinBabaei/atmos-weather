@@ -1,0 +1,1 @@
+export default function NotFound() {return <main className="empty-state min-h-screen"><h1>A little off the forecast.</h1><p>This page could not be found.</p><a className="primary-button" href="/">Back to Atmos</a></main>;}
